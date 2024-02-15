@@ -91,13 +91,13 @@ header {
         text-align: justify;
       }
       h3{
-        text-align: justify;
+        text-align: center;
       }
       p{
         color: rgb(0, 0, 0);
         text-align: justify;
         font-family:Arial, Helvetica, sans-serif;
-        text-justify:auto;
+        text-justify:justify;
       }
       div img {
 
@@ -107,3 +107,9 @@ header {
       h1{
         text-align: center;
       }
+      h4{
+        text-align: center;
+      }
+
+      
+      
